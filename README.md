@@ -2,7 +2,7 @@ Jooow ff in't kort:
 Package manager = yarn, was de default bij het aanmaken en vind ik persoonlijk fijnste. als je nog nooit hebt gebruikt moet je eerst ff  <b>npm install -g yarn</b> runnen, daarna is alles hetzelfde.
 
 # Package manager
-- installeer packages met <b>yarn</b> (zelfde als npm install)
+- update (en initial install) packages met <b>yarn</b> (zelfde als npm install)
 - start met <b>yarn start</b> (zelfde als npm run start), wordt gehost op [http://localhost:3000](http://localhost:3000)
 - installeer package met <b>yarn add *</b> (zelfde als npm install *)
 
