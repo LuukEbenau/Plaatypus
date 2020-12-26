@@ -1,5 +1,8 @@
 import React from 'react'
+import {Link} from "react-router-dom"
 import product_card from "../data/product_data";
+
+function getUrl(id) {return "/product/"+id}
 
 const MainContent = () => {
     console.log(product_card);
@@ -12,7 +15,7 @@ const MainContent = () => {
                 <h2>{item.product_name}</h2>
                 <p>{item.description}</p>
                 <p className="price">{item.price}<span>{item.currency}</span></p>
-                <div className="btn">Add to cart</div>
+                <Link to={getUrl(item.id)} className="btn">Add to cart</Link>
             </div>
         </div>
 
