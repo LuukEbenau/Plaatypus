@@ -1,5 +1,20 @@
 import React from "react"
+import { Switch } from "react-router-dom";
 import product_card from "../data/product_data";
+
+import Frederik from './persons/frederik'
+import Fellie from './persons/fellie'
+import Merijn from './persons/merijn'
+import Christine from './persons/christine'
+import Dave from './persons/dave'
+import Joni from './persons/joni'
+import Fabian from './persons/fabian'
+import Pascal from './persons/fabian'
+import Vivan from './persons/fabian'
+import Ember from './persons/fabian'
+import Joep from './persons/fabian'
+import Sietze from './persons/fabian'
+import Amadeus from './persons/fabian'
 
 export default class Product extends React.Component {
     constructor(props) {
@@ -8,8 +23,26 @@ export default class Product extends React.Component {
     }
 
     render() {
+        let id = this.item.id
+        let PersonInfoPage = 
+        id === 0 ? Frederik : 
+        id === 1 ? Fellie : 
+        id === 2 ? Fabian : 
+        id === 3 ? Pascal : 
+        id === 4 ? Vivan : 
+        id === 5 ? Merijn : 
+        id === 6 ? Dave : 
+        id === 7 ? Amadeus : 
+        id === 8 ? Joep : 
+        id === 9 ? Ember : 
+        id === 10 ? Christine : 
+        id === 11 ? Sietze :
+        id === 12 ? Joni : <div>Onbekend jaarclub lid?</div>
         return (
-            <div>{this.item.product_name}</div>
+            <div>
+                <h1>{this.item.product_name}</h1>
+                <PersonInfoPage></PersonInfoPage>
+            </div>
         )
     }
 }

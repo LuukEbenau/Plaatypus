@@ -1,11 +1,13 @@
+import logo from '../images/logo.png'
+import logo_blank from '../images/2.png'
 const product_card = [
     {
         id: 0,
         product_name: "Frederik",
-        description: "De leukste",
+        description: "Het Schattige Jongetje",
         price: 69,
         currency: "$",
-        thumb: "./images/1.png"
+        thumb: logo
     },
     {
         id: 1,
@@ -13,7 +15,7 @@ const product_card = [
         description: "Fuckboii",
         price: 420,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb: logo_blank
     },
     {
         id: 2,
@@ -21,7 +23,7 @@ const product_card = [
         description: "Discrete Structures",
         price: 350,
         currency: "$",
-        thumb: "./images/1.png"
+        thumb: logo
     },
     {
         id: 3,
@@ -29,7 +31,7 @@ const product_card = [
         description: "De slimme",
         price: 350,
         currency: "$",
-        thumb: "./images/1.png"
+        thumb: logo
     },
     {
         id: 4,
@@ -37,7 +39,7 @@ const product_card = [
         description: "The heartbreaker",
         price: 250,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb: logo_blank
     },
     {
         id: 5,
@@ -45,7 +47,7 @@ const product_card = [
         description: "uut Zitterd",
         price: 350,
         currency: "$",
-        thumb: "./images/1.png"
+        thumb: logo
     },
     {
         id: 6,
@@ -53,15 +55,15 @@ const product_card = [
         description: "Uut Ziterd 2",
         price: 350,
         currency: "$",
-        thumb: "./images/1.png"
+        thumb: logo
     },
     {
         id: 7,
-        product_name: "Amedeus",
+        product_name: "Amadeus",
         description: "De heilige",
-        price: 250,
+        price: 317,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb:logo_blank
     },
     {
         id: 8,
@@ -69,7 +71,7 @@ const product_card = [
         description: "Online is zijn favo",
         price: 350,
         currency: "$",
-        thumb: "./images/1.png"
+        thumb: logo
     },
     {
         id: 9,
@@ -77,7 +79,7 @@ const product_card = [
         description: "Geen Idee",
         price: 250,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb: logo_blank
     },
     {
         id: 10,
@@ -85,7 +87,7 @@ const product_card = [
         description: "Feut",
         price: 250,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb: logo_blank
     },
     {
         id: 11,
@@ -93,7 +95,7 @@ const product_card = [
         description: "De JC Mama",
         price: 250,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb: logo_blank
     },
     {
         id: 12,
@@ -101,7 +103,7 @@ const product_card = [
         description: "De JC Papa",
         price: 250,
         currency: "$",
-        thumb: "./images/2.png"
+        thumb: logo_blank
     },
 ]
 export default product_card;
