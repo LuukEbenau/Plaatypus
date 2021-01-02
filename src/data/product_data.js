@@ -23,9 +23,9 @@ const product_card = [
     {
         id: 2,
         product_name: "Fabian",
-        description: "Discrete Structures",
-        price: 350,
-        currency: "$",
+        description: "Fucking lange.... benen",
+        price: 200,
+        currency: "cm",
         thumb: logo
     },
     {
@@ -48,15 +48,15 @@ const product_card = [
         id: 5,
         product_name: "Merijn",
         description: "uut Zitterd",
-        price: 350,
+        price: "046",
         currency: "$",
         thumb: logo
     },
     {
         id: 6,
         product_name: "Dave",
-        description: "Uut Ziterd 2",
-        price: 350,
+        description: "Uut Zitterd 2",
+        price: "046",
         currency: "$",
         thumb: logo
     },
@@ -71,7 +71,7 @@ const product_card = [
     {
         id: 8,
         product_name: "Joepie",
-        description: "Online is zijn favo",
+        description: "KotsSjaars",
         price: 350,
         currency: "$",
         thumb: logo
@@ -97,7 +97,7 @@ const product_card = [
         product_name: "Sietze",
         description: "De JC Mama",
         price: 684,
-        currency: "$",
+        currency: "♀",
         thumb: logo_blank
     },
     {
@@ -105,7 +105,7 @@ const product_card = [
         product_name: "Joni",
         description: "De JC Papa",
         price: 250,
-        currency: "$",
+        currency: "♂",
         thumb: logo_blank
     },
 ]
