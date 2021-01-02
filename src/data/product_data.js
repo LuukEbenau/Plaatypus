@@ -72,8 +72,8 @@ const product_card = [
         id: 8,
         product_name: "Joepie",
         description: "KotsSjaars",
-        price: 350,
-        currency: "$",
+        price: 24,
+        currency: "/7",
         thumb: logo
     },
     {
@@ -88,7 +88,7 @@ const product_card = [
         id: 10,
         product_name: "Christine",
         description: "Onze Feut",
-        price: 250,
+        price: 120,
         currency: "$",
         thumb: logo_christine
     },
