@@ -39,7 +39,7 @@ const product_card = [
     {
         id: 4,
         product_name: "Vivan",
-        description: "The heartbreaker",
+        description: "Beste en Mooiste Tiener",
         price: 250,
         currency: "$",
         thumb: logo_blank
