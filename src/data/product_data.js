@@ -47,7 +47,7 @@ const product_card = [
     {
         id: 5,
         product_name: "Merijn",
-        description: "uut Zitterd",
+        description: "Uut Zitterd",
         price: "046",
         currency: "$",
         thumb: logo
