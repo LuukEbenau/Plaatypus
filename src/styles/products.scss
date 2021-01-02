@@ -1,0 +1,17 @@
+.title-box{
+	position: fixed;
+	top:25%;
+	width: 100%;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+.dirty-title{
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition: background-image .25s ease-in-out;
+	font-weight: bold;
+	font-style: italic;
+	position: relative;
+}

@@ -8,6 +8,7 @@ const MainContent = () => {
             <div className="home-header">
                 <h1 className="home-title">JC PLAATYPUS</h1>
             </div>
+            kljlkjljk
         </div>
     )
 }

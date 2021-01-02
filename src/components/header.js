@@ -12,10 +12,10 @@ export default function Header() {
                 <Link to="/"><img className="logo" src={logo}/></Link>
             </div>
             <ul>
-                <li><Link to="/Plaatypus">Home</Link></li>
-                <li><Link to="/Plaatypus/products">Our Products</Link></li>
-                <li><Link to="/Plaatypus/about">About Us</Link></li>
-                <li><Link to="/Plaatypus/contact">Contact</Link></li>
+                <li><Link to="">Home</Link></li>
+                <li><Link to="/products">Our Products</Link></li>
+                <li><Link to="/about">About Us</Link></li>
+                <li><Link to="/contact">Contact</Link></li>
             </ul>
             <div className="search">
             </div>
