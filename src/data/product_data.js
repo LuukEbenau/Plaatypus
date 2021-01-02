@@ -1,5 +1,7 @@
 import logo from '../images/logo.png'
 import logo_blank from '../images/2.png'
+
+import logo_christine from '../images/fotos/platen/christine.jpg'
 const product_card = [
     {
         id: 0,
@@ -87,7 +89,7 @@ const product_card = [
         description: "Feut",
         price: 250,
         currency: "$",
-        thumb: logo_blank
+        thumb: logo_christine
     },
     {
         id: 11,
