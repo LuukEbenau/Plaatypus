@@ -9,7 +9,7 @@ export default function Header() {
     <div className="header">
         <nav>
             <div className="logo-wrap">
-                <img className="logo" src={logo}></img>
+                <Link to="/"><img className="logo" src={logo}/></Link>
             </div>
             <ul>
                 <li><Link to="/Plaatypus">Home</Link></li>
