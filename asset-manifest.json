@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b383c719.chunk.css",
-    "main.js": "/static/js/main.5911f998.chunk.js",
-    "main.js.map": "/static/js/main.5911f998.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4998cf42.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4998cf42.js.map",
-    "static/js/2.7991b72f.chunk.js": "/static/js/2.7991b72f.chunk.js",
-    "static/js/2.7991b72f.chunk.js.map": "/static/js/2.7991b72f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4e931a4d8f36c8380549860177639c0b.js": "/precache-manifest.4e931a4d8f36c8380549860177639c0b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b383c719.chunk.css.map": "/static/css/main.b383c719.chunk.css.map",
-    "static/js/2.7991b72f.chunk.js.LICENSE.txt": "/static/js/2.7991b72f.chunk.js.LICENSE.txt",
-    "static/media/2.png": "/static/media/2.a06d3f1a.png",
-    "static/media/fabian.png": "/static/media/fabian.2235438f.png",
-    "static/media/geile frederik.jpg": "/static/media/geile frederik.77431a9b.jpg",
-    "static/media/logo.png": "/static/media/logo.b7fbf71c.png",
-    "static/media/mongooltjes.jpg": "/static/media/mongooltjes.f7320c00.jpg"
+    "main.css": "/Plaatypus/static/css/main.b383c719.chunk.css",
+    "main.js": "/Plaatypus/static/js/main.2c84ee9f.chunk.js",
+    "main.js.map": "/Plaatypus/static/js/main.2c84ee9f.chunk.js.map",
+    "runtime-main.js": "/Plaatypus/static/js/runtime-main.a7e0cb50.js",
+    "runtime-main.js.map": "/Plaatypus/static/js/runtime-main.a7e0cb50.js.map",
+    "static/js/2.7991b72f.chunk.js": "/Plaatypus/static/js/2.7991b72f.chunk.js",
+    "static/js/2.7991b72f.chunk.js.map": "/Plaatypus/static/js/2.7991b72f.chunk.js.map",
+    "index.html": "/Plaatypus/index.html",
+    "precache-manifest.e5092307f836a08629ad7c6c2a9d3d5d.js": "/Plaatypus/precache-manifest.e5092307f836a08629ad7c6c2a9d3d5d.js",
+    "service-worker.js": "/Plaatypus/service-worker.js",
+    "static/css/main.b383c719.chunk.css.map": "/Plaatypus/static/css/main.b383c719.chunk.css.map",
+    "static/js/2.7991b72f.chunk.js.LICENSE.txt": "/Plaatypus/static/js/2.7991b72f.chunk.js.LICENSE.txt",
+    "static/media/2.png": "/Plaatypus/static/media/2.a06d3f1a.png",
+    "static/media/fabian.png": "/Plaatypus/static/media/fabian.2235438f.png",
+    "static/media/geile frederik.jpg": "/Plaatypus/static/media/geile frederik.77431a9b.jpg",
+    "static/media/logo.png": "/Plaatypus/static/media/logo.b7fbf71c.png",
+    "static/media/mongooltjes.jpg": "/Plaatypus/static/media/mongooltjes.f7320c00.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4998cf42.js",
+    "static/js/runtime-main.a7e0cb50.js",
     "static/js/2.7991b72f.chunk.js",
     "static/css/main.b383c719.chunk.css",
-    "static/js/main.5911f998.chunk.js"
+    "static/js/main.2c84ee9f.chunk.js"
   ]
 }
