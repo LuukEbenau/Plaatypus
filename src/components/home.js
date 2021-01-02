@@ -12,14 +12,6 @@ const MainContent = () => {
             <div className="home-header">
                 <h1 className="home-title">JC PLAATYPUS</h1>
             </div>
-            JC 1blijft alleen!<br/>
-            JC 2 zijn prostituees!<br/>
-            JC 3 needs therapie! <br/>
-            JC 4 geen plezier! <br/>
-            JC 5 neem een schijf! <br/>
-            JC 6 wij zijn alleen voor succes! <br/>
-            JC 7 jullie moeten overgeven!<br/><br/>
-
             Ontstaansgeschiedenis J.C. i.o. 6<br/>
             Ze leefden in het sprookjesbos meestal lang en gelukkig, 
             maar er was eens een dag dat dat anders was… Een witte Prins op een knap paard (en vice versa) 
