@@ -15,11 +15,11 @@ function App() {
         <Router>
           <Header />
           <div className="container">
-            <Route exact path="/Plaatypus" component={MainContent} />
-            <Route exact path="/Plaatypus/products" component={Products} />
-            <Route path="/Plaatypus/product/:id" component={Product} />
-            <Route path="/Plaatypus/about" component={About}/>
-            <Route path="/Plaatypus/contact" component={Contact}/>
+            <Route path="/products" component={Products} />
+            <Route path="/product/:id" component={Product} />
+            <Route path="/about" component={About}/>
+            <Route path="/contact" component={Contact}/>
+            <Route exact path="/" component={MainContent} />
           </div>
           <Footer />
         </Router>

@@ -2,6 +2,8 @@ import React from 'react'
 import {Link} from "react-router-dom"
 import product_card from "../data/product_data";
 
+import '../styles/products.scss'
+
 function getUrl(id) {return "/product/"+id}
 
 const MainContent = () => {
@@ -21,7 +23,9 @@ const MainContent = () => {
     );
     return (
         <div className="main_content">
-            <h3>Plaatypus</h3>
+            <div className="title-box">
+                <h3 className="dirty-title">Plaatypus</h3>
+            </div>
             {listItems}
         </div>
     )

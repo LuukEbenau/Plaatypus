@@ -2,6 +2,7 @@ import logo from '../images/logo.png'
 import logo_blank from '../images/2.png'
 
 import logo_christine from '../images/fotos/platen/christine.jpg'
+
 const product_card = [
     {
         id: 0,
@@ -31,7 +32,7 @@ const product_card = [
         id: 3,
         product_name: "Pascal",
         description: "De slimme",
-        price: 350,
+        price: 17,
         currency: "$",
         thumb: logo
     },
@@ -62,9 +63,9 @@ const product_card = [
     {
         id: 7,
         product_name: "Amadeus",
-        description: "De heilige",
-        price: 317,
-        currency: "$",
+        description: "Opgestaan uit de dood",
+        price: 666,
+        currency: "♰",
         thumb:logo_blank
     },
     {
@@ -78,7 +79,7 @@ const product_card = [
     {
         id: 9,
         product_name: "Ember",
-        description: "Geen Idee",
+        description: "Geen IDee",
         price: 250,
         currency: "$",
         thumb: logo_blank
@@ -86,7 +87,7 @@ const product_card = [
     {
         id: 10,
         product_name: "Christine",
-        description: "Feut",
+        description: "Onze Feut",
         price: 250,
         currency: "$",
         thumb: logo_christine
@@ -95,7 +96,7 @@ const product_card = [
         id: 11,
         product_name: "Sietze",
         description: "De JC Mama",
-        price: 250,
+        price: 684,
         currency: "$",
         thumb: logo_blank
     },
