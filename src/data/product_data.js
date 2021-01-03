@@ -61,7 +61,7 @@ const product_card = [
         id: 5,
         product_name: "Merijn",
         description: "Uut Zitterd",
-        price: "046",
+        price: 505,
         currency: "$",
         thumb: logo_merijn
     },
