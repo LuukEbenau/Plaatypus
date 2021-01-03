@@ -1,6 +1,5 @@
 import React from "react"
 
-import geile_fellie from '../../images/fotos/mongooltjes.jpg'
 
 export default function Page() {
   return (
@@ -12,7 +11,7 @@ export default function Page() {
         Ondanks dat Pascal jong is is hij erg slim, gezellig en heeft hij de voorliefde voor Demos met de paplepel ingegoten gekregen. Daarom is hij een hele goede toevoeging voor onze JC. 
 
 
-      <img src={geile_fellie}></img>
+      
     </div>
   );
 }

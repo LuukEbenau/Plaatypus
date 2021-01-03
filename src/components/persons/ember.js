@@ -7,7 +7,7 @@ export default function Page() {
     <div>
         Ember is de kleinste van onze JC, maar dat betekent niet dat ze een laffe borrelaar is.
         Legendes zeggen dat als je een wijnfles binnen een straal van 2 km houdt bij Ember dat ze dan deze binnen enkele tellen gevonden heeft en verslonden heeft.
-        Hij liefde voor wijn komt voort uit haar liefde voor koken dit doet ze al minsten 2 weken.
+        Haar liefde voor wijn komt voort uit haar liefde voor koken, dit doet ze al minstens 2 weken.
         Ons Ember komt uit een klein dorpje genaamd Holthees in Limbur…. Brabant.
         De grens tussen die twee provincies is klein net als de tolerantie van Ember.
         Ember zal je nooit tegenkomen bij cafe de trefpunt, alleen voor verkiezingen.
