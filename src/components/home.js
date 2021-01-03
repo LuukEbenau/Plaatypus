@@ -12,12 +12,12 @@ const MainContent = () => {
                 <h1 className="home-title">JC PLAATYPUS</h1>
                 <img src={logo} width="350" height="350"></img>
             </div>
-            JC 1blijft alleen!<br/>
+                JC 1 blijft alleen!<br/>
                 JC 2 zijn prostituees!<br/>
                 JC 3 needs therapie! <br/>
                 JC 4 geen plezier! <br/>
                 JC 5 neem een schijf! <br/>
-                JC 6 wij zijn alleen voor succes! <br/>
+                JC 6 staat voor succes! <br/>
                 JC 7 jullie moeten overgeven!<br/><br/><br/>
         </div>
 
