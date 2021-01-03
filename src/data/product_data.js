@@ -4,6 +4,17 @@ import logo_blank from '../images/2.png'
 import logo_christine from '../images/fotos/platen/christine.png'
 import logo_frederik from '../images/fotos/platen/LPFrederikTrans.png'
 import logo_merijn from '../images/fotos/platen/LPMerijnTrans.png'
+import logo_amadeus from "../images/fotos/platen/Amadeus.png"
+import logo_ember from "../images/fotos/platen/Ember.png"
+import logo_fabian from "../images/fotos/platen/Fabian.png"
+import logo_fellie from "../images/fotos/platen/Fellie.png"
+import logo_joni from "../images/fotos/platen/Joni.png"
+import logo_pascal from "../images/fotos/platen/Pascal.png"
+import logo_sietze from "../images/fotos/platen/Sietze.png"
+import logo_vivan from "../images/fotos/platen/Vivan.png"
+
+
+
 
 const product_card = [
     {
@@ -20,7 +31,7 @@ const product_card = [
         description: "Fuckboii",
         price: 420,
         currency: "$",
-        thumb: logo_blank
+        thumb: logo_fellie
     },
     {
         id: 2,
@@ -28,7 +39,7 @@ const product_card = [
         description: "Fucking lange.... benen",
         price: 200,
         currency: "cm",
-        thumb: logo
+        thumb: logo_fabian
     },
     {
         id: 3,
@@ -36,7 +47,7 @@ const product_card = [
         description: "De slimme",
         price: 17,
         currency: "$",
-        thumb: logo
+        thumb: logo_pascal
     },
     {
         id: 4,
@@ -44,7 +55,7 @@ const product_card = [
         description: "Beste en Mooiste Tiener",
         price: 250,
         currency: "$",
-        thumb: logo_blank
+        thumb: logo_vivan
     },
     {
         id: 5,
@@ -68,7 +79,7 @@ const product_card = [
         description: "Opgestaan uit de dood",
         price: 666,
         currency: "♰",
-        thumb:logo_blank
+        thumb:logo_amadeus
     },
     {
         id: 8,
@@ -84,7 +95,7 @@ const product_card = [
         description: "Geen IDee",
         price: 250,
         currency: "$",
-        thumb: logo_blank
+        thumb: logo_ember
     },
     {
         id: 10,
@@ -100,7 +111,7 @@ const product_card = [
         description: "De JC Mama",
         price: 684,
         currency: "♀",
-        thumb: logo_blank
+        thumb: logo_sietze
     },
     {
         id: 12,
@@ -108,7 +119,7 @@ const product_card = [
         description: "De JC Papa",
         price: 250,
         currency: "♂",
-        thumb: logo_blank
+        thumb: logo_joni
     },
 ]
 export default product_card;
