@@ -12,6 +12,7 @@ import logo_joni from "../images/fotos/platen/Joni.png"
 import logo_pascal from "../images/fotos/platen/Pascal.png"
 import logo_sietze from "../images/fotos/platen/Sietze.png"
 import logo_vivan from "../images/fotos/platen/Vivan.png"
+import dndave from '../images/fotos/platen/dndave.png'
 
 
 
@@ -71,7 +72,7 @@ const product_card = [
         description: "Uut Zitterd 2",
         price: "046",
         currency: "$",
-        thumb: logo
+        thumb: dndave
     },
     {
         id: 7,
