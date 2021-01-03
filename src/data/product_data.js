@@ -1,7 +1,9 @@
 import logo from '../images/logo.png'
 import logo_blank from '../images/2.png'
 
-import logo_christine from '../images/fotos/platen/christine.jpg'
+import logo_christine from '../images/fotos/platen/christine.png'
+import logo_frederik from '../images/fotos/platen/LPFrederikTrans.png'
+import logo_merijn from '../images/fotos/platen/LPMerijnTrans.png'
 
 const product_card = [
     {
@@ -10,7 +12,7 @@ const product_card = [
         description: "Het Schattige Jongetje",
         price: 69,
         currency: "$",
-        thumb: logo
+        thumb: logo_frederik
     },
     {
         id: 1,
@@ -50,7 +52,7 @@ const product_card = [
         description: "Uut Zitterd",
         price: "046",
         currency: "$",
-        thumb: logo
+        thumb: logo_merijn
     },
     {
         id: 6,

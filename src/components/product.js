@@ -9,12 +9,12 @@ import Christine from './persons/christine'
 import Dave from './persons/dave'
 import Joni from './persons/joni'
 import Fabian from './persons/fabian'
-import Pascal from './persons/fabian'
-import Vivan from './persons/fabian'
-import Ember from './persons/fabian'
-import Joep from './persons/fabian'
-import Sietze from './persons/fabian'
-import Amadeus from './persons/fabian'
+import Pascal from './persons/pascal'
+import Vivan from './persons/vivan'
+import Ember from './persons/ember'
+import Joep from './persons/joep'
+import Sietze from './persons/sietze'
+import Amadeus from './persons/amadeus'
 
 export default class Product extends React.Component {
     constructor(props) {
