@@ -8,10 +8,11 @@ import About from "./components/about"
 import Contact from "./components/contact"
 import Footer from "./components/footer";
 import Products from './components/products';
+import HttpsRedirect from 'react-https-redirect';
 
 function App() {
   return (
-    <div>
+    <HttpsRedirect>
         <Router>
           <Header />
           <div className="container">
@@ -23,7 +24,7 @@ function App() {
           </div>
           <Footer />
         </Router>
-    </div>
+    </HttpsRedirect>
   );
 }
 
