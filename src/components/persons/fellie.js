@@ -1,6 +1,6 @@
 import React from "react"
 
-import geile_logo from '../../images/logo.png'
+import geile_fellie from '../../images/fotos/mongooltjes.jpg'
 
 export default function Page() {
   return (
@@ -12,7 +12,7 @@ export default function Page() {
       Maar ook als een van de makers van deze website houden wij veel van hem, want zonder deze informaticus zou het veel moeilijker zijn geweest.
       Vol spanning wachten we op de volgende fratsen die deze jongen gaat uithalen.
 
-      <img src={geile_logo}></img>
+      <img src={geile_fellie}></img>
     </div>
   );
 }
