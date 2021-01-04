@@ -14,10 +14,26 @@ overflow-x: hidden;
 
 body {
   width: 100%;
+  padding-bottom: 50px;
   overflow-x: hidden;
   height: 100%;
   position: relative;
-  font-family: "Varela Round";
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: bold;
+  // font-family: "Varela Round";
+}
+
+.profile-block{
+  max-width: 500px;
+  display: inline-block;
+  vertical-align: top;
+}
+.profile-block p{
+  margin-bottom: 10px;
+}
+.profile-img{
+  width: 500px;
+  display: inline-block;
 }
 
 .dFlex, nav, nav ul, .main_content, .main_content .card, .main_content .card .card_header, .btn, .footer, .footer .social, .footer .social .fa {
@@ -109,7 +125,7 @@ nav .search .fa + .fa {
   left: 0;
   top: 0;
   color: #1f56a1;
-  font-size: 13.5vw;
+  font-size: 15.5vw;
 }
 
 .main_content .card {

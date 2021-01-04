@@ -14,9 +14,6 @@ import logo_sietze from "../images/fotos/platen/Sietze.png"
 import logo_vivan from "../images/fotos/platen/Vivan.png"
 import dndave from '../images/fotos/platen/dndave.png'
 
-
-
-
 const product_card = [
     {
         id: 0,
