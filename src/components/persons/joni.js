@@ -1,5 +1,5 @@
 import React from "react"
-// import joni from "../../images/fotos/personen/joni.png"
+import joni from "../../images/fotos/personen/joni.png"
 
 export default function Page() {
   return (
@@ -26,7 +26,7 @@ export default function Page() {
         Over JC Spongebob gaan we het alleen niet veel vaker hebben want JC Plaatypus is toch wel beter.
         </p>       
     </div>
-      {/*<img src={joni}/>*/}
+      {<img src={joni} width="700"/>}
     </div>
   
   );

@@ -1,8 +1,10 @@
 import React from "react"
+import spelletjes from '../../images/fotos/groepsfotos/spelletjes.jpeg'
 
 
 export default function Page() {
   return (
+  <div>
     <div className="profile-block">
       <p>
       Amadeus is niet te missen, want zij haarbos is zeer opvallend. Hieraan verleent hij ook zijn naam. Als hij zijn haar in een staart doet lijkt hij heel erg op Wolfram Amadeus. Of hij dezelfde gaven ook heeft weten we niet. Misschien heeft hij hem wel eens gespeeld, hij is namelijk lid van een toneelschool.
@@ -16,5 +18,10 @@ export default function Page() {
       </p>
       <p>Amadeus is met zijn muzieksmaak en gezelligheid een goede toevoeging aan onze JC.</p>
     </div>
+      <img className="profile-img" src={spelletjes}/>
+    </div>
+    
+
+    
   );
 }

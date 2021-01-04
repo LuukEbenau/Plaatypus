@@ -1,4 +1,5 @@
 import React from "react"
+import pascal from "../../images/fotos/personen/pascal.png"
 
 
 export default function Page() {
@@ -26,7 +27,9 @@ export default function Page() {
 <p>        Ondanks dat Pascal jong is is hij erg slim, gezellig en heeft hij de voorliefde voor Demos met de paplepel ingegoten gekregen. Daarom is hij een hele goede toevoeging voor onze JC. </p>
 
     </div>
+    <img className="profile-img" src={pascal}/>
     </div>
+  
    
   );
 }

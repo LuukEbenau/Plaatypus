@@ -1,6 +1,6 @@
 import React from "react"
 
-import geile_fellie from '../../images/fotos/mongooltjes.jpg'
+import geile_fellie from '../../images/fotos/personen/dronkenFellie.png'
 
 export default function Page() {
   return (

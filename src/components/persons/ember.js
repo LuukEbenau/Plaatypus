@@ -1,6 +1,6 @@
 import React from "react"
 
-//import ember from '../../images/fotos/personen/ember.png'
+import ember from '../../images/fotos/groepsfotos/ember en de rest.jpg'
 
 export default function Page() {
   return (
@@ -25,6 +25,7 @@ export default function Page() {
           Hoe ze dat doet, we hebben geen idee, maar dat geldt overigens ook voor haar studie.     
         </p>       
       </div>
+      <img className="profile-img" src={ember}/>
     </div>
   );
 }
