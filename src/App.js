@@ -15,7 +15,7 @@ function App() {
     <HttpsRedirect>
         <Router>
           <Header />
-          <div className="container">
+          <div style={{minHeight:'90vh'}} className="container">
             <Route path="/products" component={Products} />
             <Route path="/product/:id" component={Product} />
             <Route path="/about" component={About}/>

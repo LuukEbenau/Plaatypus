@@ -1,8 +1,16 @@
 import React from "react"
+import img1 from '../images/fotos/groepsfotos/ember en de rest.jpg'
+import img2 from '../images/fotos/groepsfotos/spelletjes.jpeg'
+import img3 from '../images/fotos/groepsfotos/sokadt met congo.png'
+import img4 from '../images/fotos/groepsfotos/foto 2 square.jpg'
+import img5 from '../images/fotos/mongooltjes.jpg'
+
+
 
 export default class About extends React.Component {
     render() {
         return (
+            <div>
             <div className="profile-block">
                 <p><b>Ontstaansgeschiedenis J.C. i.o. 6</b></p>
                 <p>
@@ -69,6 +77,16 @@ export default class About extends React.Component {
             werd uitgenodigd voor een audiëntie bij de Keizer en daar vonden ze eindelijk waar ze naar opzoek waren. Dat doet me trouwens denken aan
             het geëscaleerde bacchanaal van Carnaval 2021, maar dat lieve kinderen, dat is weer een ander verhaal…    
   </p>
+            </div>
+            <div className="profile-img">
+            <img className="w-100" src={img1}/>
+            <img className="w-100" src={img2}/>
+            <img className="w-100" src={img3}/>
+            <img className="w-100" src={img4}/>
+            <img className="w-100" src={img5}/>
+            </div>
+            
+            {/* <img className="profile-img" src={frederik}/> */}
             </div>
         )
     }

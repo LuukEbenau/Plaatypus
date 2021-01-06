@@ -37,6 +37,10 @@ body {
   display: inline-block;
 }
 
+.w-100{
+  width: 100%;
+}
+
 .dFlex, nav, nav ul, .main_content, .main_content .card, .main_content .card .card_header, .btn, .footer, .footer .social, .footer .social .fa {
   display: -webkit-box;
   display: -ms-flexbox;

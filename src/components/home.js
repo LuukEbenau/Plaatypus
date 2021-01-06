@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from "react-router-dom"
 import product_card from "../data/product_data";
 import '../styles/home.scss'
-import logo from "../images/logo.png";
+import logo from "../images/logo_met_namen.png";
 
 const MainContent = () => {
     return (
@@ -10,7 +10,7 @@ const MainContent = () => {
 
             <div className="home-header">
                 <h1 className="home-title">JC PLAATYPUS</h1>
-                <img src={logo} width="350" height="350"></img>
+                <img src={logo} width="350"></img>
             </div>
                 JC 1 blijft alleen!<br/>
                 JC 2 zijn prostituees!<br/>

@@ -19,7 +19,7 @@ export default function Page() {
 Als mentor zou je denken dat hij zijn zaken op orde heeft, maar het komt toch zeer regelmatig voor dat hij ‘s avonds laat tijdens de borrels nog aan zijn deadlines moet werken en dan ook pas gaat eten, vandaar zijn prachtige tripplekin die hij vaak op fotos showed.
 </p>
   <p>
-  Wanneer je bij Frederik thuis gaat borrelen zal hij je er nooit vandoor laten gaan voordat je zijn afscheids shotje doet, maar zelf kan hij er niet zo goed tegen en heeft dus ook al de nodige keren in zn leven moeten barfen.
+  Wanneer je bij Frederik thuis gaat borrelen zal hij je er nooit vandoor laten gaan voordat je zijn afscheids shotje doet, maar zelf kan hij er niet zo goed tegen en heeft hier de gevolgen hiervan meerdere keren onder ogen moeten zien.
   </p>
       </div>
       <img className="profile-img" src={frederik}></img>

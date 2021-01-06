@@ -1,5 +1,4 @@
 import logo from '../images/logo.png'
-import logo_blank from '../images/2.png'
 
 import logo_christine from '../images/fotos/platen/christine.png'
 import logo_frederik from '../images/fotos/platen/LPFrederikTrans.png'
@@ -18,7 +17,7 @@ const product_card = [
     {
         id: 0,
         product_name: "Frederik",
-        description: "Het Schattige Jongetje",
+        description: "De Golddigger",
         price: 69,
         currency: "$",
         thumb: logo_frederik
@@ -82,7 +81,7 @@ const product_card = [
     {
         id: 8,
         product_name: "Joepie",
-        description: "KotsSjaars",
+        description: "Kleine speler, groot hart",
         price: 24,
         currency: "/7",
         thumb: logo

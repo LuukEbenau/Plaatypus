@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from "react-router-dom"
 import '../styles/header.scss'
 
-import logo from '../images/logo.png'
+import logo from '../images/logo_met_namen.png'
 
 export default function Header() {
     return (

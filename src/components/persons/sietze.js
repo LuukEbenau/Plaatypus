@@ -13,7 +13,7 @@ export default function Page() {
      </p>
       <p>
       Ben je op een feestje en wil je gratis drank hebben? Zorg dan dat je in de buurt van Sietze blijft.
-              Deze vent geeft gerust meer dan honderd euro uit aan drank op een avond en deelt dit vervolgens uit aan de mensen in zijn buurt.
+              Het vent is niet vies van een drankje, en deelt deze graag met de mensen in zijn buurt.
               Sta er niet van te kijken als Sietze ineens achter je staat en je uit het niets een shotje of adtje mee gaat doen met hem.
       </p>
       <p>

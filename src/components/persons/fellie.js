@@ -11,9 +11,9 @@ export default function Page() {
 Wat ook te zien was later op die avond, want Fellie werd een hele make-up goeroe. Blush had deze make-up-heilige niet bij de hand, dus werd het inventariseren. Fellie wist dat kruidige ketchup wonderen zou doen voor zijn wangetjes. Dus smeerde hij het royaal over zijn huid. Zijn huid kreeg een natuurlijke blush. De volgende dag scheen zijn huid volledig vol met puisten te zitten, maar niemand weet waarom.
 </p>
   <p>
-  Dit is niet de enige kapriool die hij gedaan heeft tijdens onze borrels. Hij houdt heel erg van appeltaart, maar helaas was dit niet in huis, dus activeerde hij weer zijn creatieve kunsten. Apfelkorn was er gelukkig wel genoeg en met een vleugje kaneel en een toefje slagroom maakte hij n echte oer-Hollandsche oma’s appeltaart. Althans zo leek het. De smaak was om te kotsen. 
+  Dit is niet de enige kapriool die hij gedaan heeft tijdens onze borrels. Hij houdt heel erg van appeltaart, maar helaas was dit niet in huis, dus activeerde hij weer zijn creatieve kunsten. Apfelkorn was er gelukkig wel genoeg en met een vleugje kaneel en een toefje slagroom maakte hij n echte oer-Hollandsche oma’s appeltaart. Althans zo leek het. En de smaak, tja, Laten we zeggen dat vies een understatement is. 
   </p>
-    <p>Als make-up goeroe weet hij vele harten te overwinnen. Zo probeerde hij het ook incest te plegen bij onze JC papa Joni. Haar vriend was hier alleen niet van gediend.</p>
+    <p>Als make-up goeroe weet hij vele harten te overwinnen. Zo ook bij onze JC papa Joni. Haar vriend was hier alleen niet van gediend.</p>
     
     <p>
     Maar ook als een van de makers van deze website houden wij veel van hem, want zonder deze informaticus zou het veel moeilijker zijn geweest.
