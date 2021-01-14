@@ -19,10 +19,11 @@ export default function Page() {
         </p>
         <p>
         Ember is enorm verliefd op haar vriendje, die ze overigens online ontmoet heeft.
-          Hij klinkt als een topvent, alleen een beetje jammer dat die uit drenthe komt.
-          We hebben gehoord dat haar vriend grote ballen heeft en dat moet ook wel want ember heeft genoeg zelfvertrouwen om iedereen boven de 1,60 omver te blazen met haar gevatte grappen.
-          Over ballen gesproken, Ember is een fervent volleybalster.
-          Hoe ze dat doet, we hebben geen idee, maar dat geldt overigens ook voor haar studie.     
+          Hij klinkt als een topvent, alleen een beetje jammer dat die uit Drenthe komt.
+          Van haar vriend heeft ze waarschijnlijk ook haar gewaagte humor, en heeft ze genoeg zelfvertrouwen om iedereen boven de 1,60 omver te blazen met haar gevatte grappen.
+          
+          <p>De grappen gaan wel eens over ballen, en verbazend genoeg is Ember verder dan ook een fervent volleybalster.
+          Hoe ze dat doet, we hebben geen IDee, maar dat geldt overigens ook voor haar studie.</p>   
         </p>       
       </div>
       <img className="profile-img" src={ember}/>

@@ -1,6 +1,5 @@
 import React from "react"
-import vivan from "../../images/fotos/personen/vivan_voleybal.jpg"
-
+import vivan from "../../images/fotos/personen/vivan.jpeg"
 
 export default function Page() {
   return (
@@ -16,11 +15,8 @@ Tijdens een van de offline meetings in de soos (lijkt wel vorig jaar zo lang gel
     Gelukkig heeft ze ook nog wat tijd voor beweging. Korfbal doet ze al sinds jaren, waardoor er nog leuke fotos over zijn van vroeger, (zoals hier te zien is?).
     Vivan is een van de meest hardwerkende leden van onze JC, en daarmee een geweldig lid van onze geweldige jaarclub.
     </p>
-
       </div>
       <img className="profile-img" src={vivan}/>
     </div>
-
-
   );
 }

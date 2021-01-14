@@ -13,7 +13,7 @@ export default function Page() {
       Daarom mag hij geen alcohol drinken, maar dat maakt het borrelen niet minder leuk met hem. Zodra hij wel legaal mag drinken is het plan dat dat lekker groots aangepakt wordt. Doordat hij pas in de zomer jarig is zal dit (hopelijk) gezellig op de sociëteit gevierd kunnen worden. 
       </p>
 		<p>
-    Zijn ouders hebben elkaar ontmoet tijdens een bestuursjaar bij Demos, dit maakt Pascal een echte Demosbaby. Daarom wachten wij ook met spanning af hoe zijn Demos carrière zal verlopen. 
+    Zijn ouders hebben elkaar ontmoet tijdens zijn vaders bestuursjaar bij Demos, dit maakt Pascal een echte Demosbaby. Daarom wachten wij ook met spanning af hoe zijn Demos carrière zal verlopen. 
     </p>
     <p>
     Zijn leeftijd zegt verder niks over zijn intelligentie, want hij doet maarliefst twee bachelors. Niet zomaar twee bachelors, maar Wiskunde en Natuurkunde!! Daarmee haalt hij waarschijnlijk in één jaar meer punten dan menigeen tweedejaars Demosleden hebben.

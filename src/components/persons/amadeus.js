@@ -1,5 +1,5 @@
 import React from "react"
-import spelletjes from '../../images/fotos/groepsfotos/spelletjes.jpeg'
+import amadeus_playboy from '../../images/fotos/personen/playboy amadeus.jpeg'
 
 
 export default function Page() {
@@ -7,7 +7,7 @@ export default function Page() {
   <div>
     <div className="profile-block">
       <p>
-      Amadeus is niet te missen, want zij haarbos is zeer opvallend. Hieraan verleent hij ook zijn naam. Als hij zijn haar in een staart doet lijkt hij heel erg op Wolfram Amadeus. Of hij dezelfde gaven ook heeft weten we niet. Misschien heeft hij hem wel eens gespeeld, hij is namelijk lid van een toneelschool.
+      Amadeus is niet te missen, want zij haarbos is zeer opvallend. Hieraan verleent hij ook zijn naam. Als hij zijn haar in een staart doet lijkt hij heel erg op Wolfram Amadeus. Of hij dezelfde gaven ook heeft weten we niet. Misschien heeft hij hem wel eens gespeeld, hij is namelijk lid van E.S.T.V. Doppio; de toneelvereniging.
       </p>
       <p>
       Zijn toneelkunsten heeft hij laten zien tijdens het wcrollenverkooppraatje bij de borrel met Adregé. Hierbij kreeg hij een willekeurig nummer, waaraan hij zijn wc-rollen kon verkopen. Dit vergde natuurlijk goede improvisatie-skills, maar het lukte hem om de persoon aan de andere kant van de lijn een goed kwartier bezig te houden. Hij ging onderhandelen voor de prijs, want zijn wcrollen zijn niet goedkoop, ze zijn immers gemaakt van zeewier. Een meter wc-papier was te koop voor duizenden Yen.
@@ -18,10 +18,7 @@ export default function Page() {
       </p>
       <p>Amadeus is met zijn muzieksmaak en gezelligheid een goede toevoeging aan onze JC.</p>
     </div>
-      <img className="profile-img" src={spelletjes}/>
-    </div>
-    
-
-    
+      <img className="profile-img" src={amadeus_playboy}/>
+    </div> 
   );
 }
