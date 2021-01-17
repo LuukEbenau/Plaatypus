@@ -99,6 +99,10 @@ nav ul li {
   cursor: pointer;
 }
 
+@media only screen and (max-width: 768px) {
+  
+}
+
 nav .search {
   color: rgba(255, 255, 255, 0.7);
 }
@@ -113,7 +117,7 @@ nav .search .fa + .fa {
 
 .main_content {
   position: relative;
-  width: 70%;
+  width: 90%;
   height: 100%;
   margin: 50px auto;
   padding: 50px 0 0;

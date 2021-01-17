@@ -50,7 +50,7 @@ const product_card = [
         id: 4,
         product_name: "Vivan",
         description: "Beste en Mooiste Tiener",
-        price: 250,
+        price: 108,
         currency: "$",
         thumb: logo_vivan
     },
@@ -58,7 +58,7 @@ const product_card = [
         id: 5,
         product_name: "Merijn",
         description: "Uut Zitterd",
-        price: 9001,
+        price: "073",
         currency: "٥",
         thumb: logo_merijn
     },
@@ -90,7 +90,7 @@ const product_card = [
         id: 9,
         product_name: "Ember",
         description: "Geen IDee",
-        price: 250,
+        price: 840,
         currency: "$",
         thumb: logo_ember
     },
@@ -114,7 +114,7 @@ const product_card = [
         id: 12,
         product_name: "Joni",
         description: "De JC Papa",
-        price: 250,
+        price: "684.684",
         currency: "♂",
         thumb: logo_joni
     },
